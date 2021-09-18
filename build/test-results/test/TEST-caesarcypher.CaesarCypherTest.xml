@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="caesarcypher.CaesarCypherTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-09-08T04:50:38" hostname="LAPTOP-U22S9C68" time="0.029">
+  <properties/>
+  <testcase name="deve_Falhar_Quando_ShiftChave3Incorreto()" classname="caesarcypher.CaesarCypherTest" time="0.023"/>
+  <testcase name="deve_LancarException_Quando_EntradaVazia()" classname="caesarcypher.CaesarCypherTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
